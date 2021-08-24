@@ -1,0 +1,101 @@
+[
+    {
+        "threadID": "3678593095603716",
+        "shortcuts": [
+            {
+                "id": "nkZauivDIJ",
+                "input": ".",
+                "output": "@Trần Đức Toản"
+            },
+            {
+                "id": "yeNHNHVYJS",
+                "input": "@Đỗ Thu Trà",
+                "output": "@Đỗ Thu Trà"
+            }
+        ]
+    },
+    {
+        "threadID": "4107366569379602",
+        "shortcuts": []
+    },
+    {
+        "threadID": "4092607954187430",
+        "shortcuts": [
+            {
+                "id": "DInsYDsGou",
+                "input": "Short",
+                "output": "thành viên mới giới thiệu. show , set biệt danh"
+            },
+            {
+                "id": "imuEzvqnUs",
+                "input": "kí tự => ⚔️𝕾𝖙𝖆⚔️",
+                "output": "⚔️𝕾𝖙𝖆⚔️"
+            },
+            {
+                "id": "RSdyBhbsqo",
+                "input": "Kí tự",
+                "output": "⚔️𝕾𝖙𝖆⚔️"
+            }
+        ]
+    },
+    {
+        "threadID": "4200479733346133",
+        "shortcuts": [
+            {
+                "id": "HGyyGSSfsR",
+                "input": "Chào tvm",
+                "output": "Giới thiệu bản thân và show ingame đi còn chờ gì nữa 🐳"
+            }
+        ]
+    },
+    {
+        "threadID": "4400512880011254",
+        "shortcuts": [
+            {
+                "id": "jeooNCjrqf",
+                "input": "d",
+                "output": "?admin add 100048464200178"
+            }
+        ]
+    },
+    {
+        "threadID": "5820639054676550",
+        "shortcuts": [
+            {
+                "id": "fbLsDlbesk",
+                "input": "Gi z tr",
+                "output": "."
+            },
+            {
+                "id": "KEhMXIjqjA",
+                "input": "Hi => hi cc",
+                "output": "Hi => hi cc"
+            },
+            {
+                "id": "FhikgEAnXV",
+                "input": "Hi cc",
+                "output": "Hi"
+            },
+            {
+                "id": "BWkVxhGYJK",
+                "input": "Hi",
+                "output": "Hi"
+            }
+        ]
+    },
+    {
+        "threadID": "100037650854848",
+        "shortcuts": [
+            {
+                "id": "ypusUcVdME",
+                "input": "Hi => hi cc",
+                "output": "Hi = hi cc"
+            },
+            {
+                "id": "mXuDquzSHz",
+                "input": "Hi",
+                "output": "Hi cc"
+            }
+        ]
+    }
+]
