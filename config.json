@@ -13,7 +13,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "LEANHTRUONG BOT",
-    "PREFIX": "!",
+    "PREFIX": "/",
     "ADMINBOT": [
         "",
         "100004841976549",
